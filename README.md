@@ -1,4 +1,4 @@
-# Gold-Silver-Prediction-using-Yolo   
+# Gold-Silver-Prediction 
 It Forecast Gold and Silver price rate for 7 days.  
 The Price values is in dollars.  
 It will calculate 1 Ounce of Gold & Silver.     
